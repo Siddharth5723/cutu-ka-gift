@@ -59,7 +59,7 @@ class AnniversaryApp {
               <div class="hero-card-glow" aria-hidden="true"></div>
               <div class="hero-card-frame">
                 <img 
-                  src="/cover-reference-2x.png" 
+                  src="/cutu-ka-gift/cover-reference-2x.png" 
                   alt="Boy and girl surrounded by cherry blossom heart trees under a glowing romantic heart"
                   class="hero-artwork-img"
                   draggable="false"
